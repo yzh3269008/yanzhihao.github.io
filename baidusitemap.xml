@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2016/05/12/Stephen-curry/</loc>
+    <lastmod>2016-05-13T12:04:28.000Z</lastmod>
+    <data>
+        <display>
+        <title>Stephen curry</title>
+        <pubTime>2016-05-12T09:58:51.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2016/05/12/NBA/</loc>
+    <lastmod>2016-05-13T10:50:56.000Z</lastmod>
+    <data>
+        <display>
+        <title>NBA</title>
+        <pubTime>2016-05-12T09:43:40.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2016/05/12/basketball/</loc>
+    <lastmod>2016-05-13T10:49:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>basketball</title>
+        <pubTime>2016-05-11T23:24:41.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
